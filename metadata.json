@@ -1,0 +1,6 @@
+{
+  "name": "Bharat Cart",
+  "description": "Modern Indian online shopping marketplace with Gemini-powered Ask an Expert product compatibility assistance, multi-category browsing, real-time order tracking, UPI payments, and seller portal.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
